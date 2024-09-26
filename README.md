@@ -21,6 +21,6 @@
 | 7 | Kompres Folder | Mengompres folder dengan perintah **tar -czf** |
 | 8 | Ekstrak Folder | Mengekstrak folder dengan perintah **tar -xf** |
 # SCREENSHOT PROGRAM
-![Aplikasi Gue]()
+![Aplikasi Gue](https://github.com/arihan460/GrafikaKomputer/blob/main/Tugas1P5Js)
 
 | VArchiver - Grafika Komputer |
